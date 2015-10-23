@@ -5,9 +5,6 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
 
 
-/**
- * Created by mykev on 10/22/2015.
- */
 public class CBC {
 
     public static String DES(byte[] text, String key) {
